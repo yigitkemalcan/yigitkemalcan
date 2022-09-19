@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yiğit Kemal Can.
-- 👀 I’m interested in backend development.
 - 🌱 I’m currently learning Java.
 - 📚 I'm a freshman in Bilkent University.
 - 📫 How to reach me ...
