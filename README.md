@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Yiğit Kemal Can  
-- 🎓 Computer Science student at Bilkent University (High Honor Student)  
-- 🔬 Interested in reinforcement learning, natural language to SQL processing, and software engineering  
-- 💻 Experienced with C++, Python, Java, React, and FastAPI  
-- 📫 Reach me at: yigit.kemal.can11@gmail.com | [LinkedIn](https://www.linkedin.com/in/yigitkemalcan)
-
-
-<!---
-yigitkemalcan/yigitkemalcan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm **Yiğit Kemal Can**!
+- 🎓 Ph.D. student in Computer Science at **The University of Texas at Austin**, advised by [Prof. Jovan Stojkovic](https://jovans2.github.io/) in the [CASCADE Lab](https://cascade.cs.utexas.edu/).
+- 🎓 B.S. in Computer Science from **Bilkent University**, graduated with High Honors.
+- 🔬 Interested in computer architecture, hardware-software co-design, and systems for emerging datacenter workloads, particularly AI and agentic AI.
+- 💻 Currently researching memory management for CPU sandboxes in agentic AI workloads.
+- 🚀 Previously worked on multi-agent AI systems, text-to-SQL, reinforcement learning, and software engineering.
+- 🛠️ Experienced with Python, C, C++, Java, SQL, Docker, AWS, and LLM frameworks.
+- 📫 Reach me at: **yigitcan@cs.utexas.edu**
+- 🔗 [Personal Website](https://yigitkemalcan.github.io/) | [Google Scholar](https://scholar.google.com/citations?hl=tr&user=2oUT42IAAAAJ) | [LinkedIn](https://www.linkedin.com/in/yigitkemalcan) | [CV](https://yigitkemalcan.github.io/files/YigitKemalCan_CV.pdf)
